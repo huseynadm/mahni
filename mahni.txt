@@ -1,2 +1,1 @@
-Namigin Sozlerini Burada Yaziriq
-Aygun oz sozlerini elave edir
+revert test
